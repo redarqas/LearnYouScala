@@ -1,0 +1,9 @@
+val y: Byte = 1 
+val h: Short = 2
+val i: Int = 3
+val l: Long = 4
+val c: Char = '@'
+val s: String = """ Scala "is" fun """
+val f: Float = 1.55f
+val d: Double = 2.33
+val b: Boolean = true
