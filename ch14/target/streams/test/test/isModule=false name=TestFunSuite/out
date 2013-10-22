@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mTestFunSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- Test with === *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  3 did not equal 2 (test.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m- test with expect *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Expected 2, but got 3 (test.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[32m- test an exception[0m[0m

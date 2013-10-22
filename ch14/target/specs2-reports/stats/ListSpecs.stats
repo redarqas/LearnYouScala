@@ -1,0 +1,4 @@
+<ListSpecs-stats timestamp="1380666343713"><stats time="218" expectations="1" successes="1" examples="1"></stats></ListSpecs-stats>
+<ListSpecs-results timestamp="1380666604148"><result location="ListSpecs (test.scala:92)" id="1674197256"><stats time="42" expectations="1" failures="1" examples="1"></stats></result>
+</ListSpecs-results>
+<ListSpecs-stats timestamp="1380666604159"><stats time="19" expectations="2" failures="1" successes="1" examples="2"><trend><stats time="19" expectations="1" failures="1" examples="1"></stats></trend></stats></ListSpecs-stats>

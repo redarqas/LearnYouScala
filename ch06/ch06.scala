@@ -42,4 +42,13 @@ class Rational(n: Int, d:Int) extends Ordered[Rational] {
     }
 }
 
+object Rational {
+    def apply(n: Int, d: Int) = new Rational(n,d)
+}
+
 implicit def intToRational(x: Int) = new Rational(x)
+
+
+
+
+

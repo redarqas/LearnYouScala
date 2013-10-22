@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mListSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA list[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a length equal to the number of elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a head equal the first element[0m[0m

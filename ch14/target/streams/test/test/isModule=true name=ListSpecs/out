@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mListSpecs[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mA list should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m have a length equal to the number of elements [37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[33mx[0m have a head equal the first element[0m[0m
+[0m[[31merror[0m] [0m   '1' is not equal to '3' (test.scala:94)[0m
+[0m[[0minfo[0m] [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ListSpecs[0m
+[0m[[0minfo[0m] [0m[34mFinished in 19 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m[0m[34m2 examples, 1 failure, 0 error[0m[0m
