@@ -1,6 +1,5 @@
 import scala.io.Source
 
-
 if(args.length > 0) {
   val lines = Source.fromFile(args(0)).getLines.toList
   val maxWidth = lines.maxBy(_.length).length.toString.length

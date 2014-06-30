@@ -12,10 +12,10 @@ def max(x: Int, y: Int) = if (x > y) x else y
 
 def greeting() = println ("Hello, world ")
 
-/*def prependToAll[T](sep: T, xs: List[T]) : List[T] = xs match {
+def prependToAll[T](sep: T, xs: List[T]) : List[T] = xs match {
     case Nil => Nil
     case (y::ys) => sep::y::prependToAll(sep, ys)
-}*/
+}
 
 
  
